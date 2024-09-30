@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: rhtap-test-sept30-1-database-config
+data:
+  VECTORDB_HOST: "rhtap-test-sept30-1-database"
+  VECTORDB_PORT: ""
